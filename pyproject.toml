@@ -32,10 +32,10 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/slikemedia"
-Documentation = "https://github.com/yourusername/slikemedia#readme"
-Repository = "https://github.com/yourusername/slikemedia"
-Issues = "https://github.com/yourusername/slikemedia/issues"
+Homepage = "https://github.com/SlikeTech/slike-media-package"
+Documentation = "https://github.com/SlikeTech/slike-media-package#readme"
+Repository = "https://github.com/SlikeTech/slike-media-package"
+Issues = "https://github.com/SlikeTech/slike-media-package/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["slikemedia.py"]
